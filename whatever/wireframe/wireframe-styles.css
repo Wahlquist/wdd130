@@ -1,0 +1,10 @@
+.logo-img{
+    width: 100px
+}
+.first-menu a:link, .firtst-menu a:visited{
+    color: orange;
+}
+#hero-banner{
+    width: 100%;
+    background-image: url();
+}
