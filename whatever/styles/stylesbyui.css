@@ -1,0 +1,17 @@
+body{
+    font-size:size;
+    margin: 0 ;
+}
+nav, footer {
+    background-color: steelblue;
+    color: white;
+    padding: 10px;
+}
+footer p {
+    font-size: 20px;
+    margin: 20px auto;
+}
+a:hover {
+    background-color: white;
+    color: blue
+   } 

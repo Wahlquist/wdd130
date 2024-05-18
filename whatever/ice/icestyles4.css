@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(12, 148, 239);
+    text-align: center;
+}
+.top{
+    color: white;
+}
+.list{
+    width: 60%;
+    margin: 0 auto;
+}
+id #herobanner{
+    width: 30%;
+display: block;
+margin: 0%;
+}
+blockquote{
+    color: aliceblue;
+    font-size: 1.7em;
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 5%;
+}
