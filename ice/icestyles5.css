@@ -1,0 +1,35 @@
+.circlesbox .circle{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+  background-color: rgb(60, 59, 59);
+  margin: 4%;
+  padding: 1%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.circlesbox{
+     background-color: rgb(122, 120, 120);
+}    
+.hero.hero-box{
+    position: absolute;
+}
+.hero-img {
+    position: relative;
+    padding: 0%;
+    margin: 0%;
+}
+.home-title {
+    position: absolute;
+    top: 50%;
+    left: 47%;
+    transform: translate(-50%, -50%);
+   font-size: 300%;
+  }
+  .home-subtitle {
+    position: absolute;
+    top: 65%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+    font-size: 40px;
+  }
