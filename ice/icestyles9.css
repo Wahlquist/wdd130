@@ -1,0 +1,63 @@
+body{
+    background-color: black;
+    grid-template-rows: 1fr 1fr 1fr  ;
+
+}
+.card{
+    width: 250px;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 30px;
+
+
+}
+.headerimage{
+    width: 100%;
+}
+.awesomearticle{
+    padding: 10%;
+    text-align: center; 
+
+}
+.bottom {
+    grid-template-columns: 1fr 1fr 1fr;
+    display: flex;
+    align-content: center;
+}
+.bottom1{
+    grid-column: 1/2;
+
+        border-radius: 0px 0px 0px 30px;
+}
+.bottom2{
+    grid-column: 2/3;
+}
+.bottom3{
+    grid-column: 3/4;
+    border-radius: 0px 0px 30px 0px;
+}
+.bottom1, .bottom2, .bottom3{
+    width: 100%;
+    height: 200%;
+    text-align: center;
+    align-items: center;
+    background-color: rgb(92, 92, 195);
+    color: white;
+    border-style: solid;
+    border-color: grey;
+    border-width: 1px;
+    
+}
+.headerimage{
+    border-radius: 30px 30px 0px 0px;
+
+    width: 100%;
+    height: 100%;
+}
+.post3{
+    text-align: center;
+}
+.post1{
+    text-align: center;
+    color: aqua;
+}

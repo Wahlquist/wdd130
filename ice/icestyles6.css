@@ -1,0 +1,8 @@
+
+.grid-container{
+    display: grid;
+    grid-template-columns: fr1 fr1;
+}
+.grid-item item-2{
+    background-color: darkgrey;
+}
